@@ -50,5 +50,5 @@ Apply 20% discount on the prices, then predict the customers’ labels again. If
 4) change from 1 to 0, this indicates the discount can stop customer churn. On the contrary, ifthe predicted
 labels are still 1, this indicates the discount cannot stop customer churn.</li>
 <img class="fit-picture"
-     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumlabs.com%2Fen%2Fblog%2Fcustomer-churn-analysis-for-a-telecom-operator&psig=AOvVaw26b9lpB8weqMrRzU8Ul9Xc&ust=1668957322380000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDV8tnEuvsCFQAAAAAdAAAAABAI">
+     src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumlabs.com%2Fen%2Fblog%2Fcustomer-churn-analysis-for-a-telecom-operator&psig=AOvVaw26b9lpB8weqMrRzU8Ul9Xc&ust=1668957322380000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDV8tnEuvsCFQAAAAAdAAAAABAI](https://numlabs.com/static/img/posts-headers/customer_churn.JPG)">
 </ul>
